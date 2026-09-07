@@ -5,13 +5,13 @@ about:
   head: 82195c6
   archived: false
   latestVersion: "v0.5.0"
-  collectedAt: 2026-09-07T05:29:10Z
+  collectedAt: 2026-09-07T18:56:05Z
 timeline:
   created: 2017-01-30
   lastCommit: 2026-08-04
   lastRelease: 2021-01-19
 popularity:
-  star: 10731
+  star: 10732
   watcher: 163
   fork: 408
   release: 5
@@ -81,7 +81,7 @@ total:
   commit: 251
 ---
 path: /home/runner/.x-repo/github.com/asciimoo/wuzz
-collectedAt: 2026-09-07T05:29:10Z
+collectedAt: 2026-09-07T18:56:06Z
 loc:
   Go:
     code: 2702
@@ -210,7 +210,7 @@ checks:
       - 'Info:   0 out of   4 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:29:11+00:00
+  collectedAt: 2026-09-07T18:56:06+00:00
   platform:
     darwin/arm64:
       name:  null
