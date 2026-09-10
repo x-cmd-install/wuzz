@@ -1,0 +1,758 @@
+- repo: raspbian_stable
+  subrepo: main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: aur
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-1
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - vendion@aur
+  licenses:
+    - AGPL3
+- repo: raspbian_testing
+  subrepo: main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: aur
+  srcname: wuzz-bin
+  binname: wuzz-bin
+  visiblename: wuzz-bin
+  version: 0.5.0
+  origversion: 0.5.0-2
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - AGPL-3.0-or-later
+- repo: scoop
+  subrepo: main
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  licenses:
+    - AGPL-3.0-only
+- repo: aur
+  srcname: wuzz-git
+  binname: wuzz-git
+  visiblename: wuzz-git
+  version: 0.5.0.r2.g66176b6
+  origversion: 0.5.0.r2.g66176b6-1
+  status: rolling
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - endre@aur
+  licenses:
+    - AGPL3
+- repo: alpine_edge
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r42
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: blackarch
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: v0.5.0.r24.g82195c6
+  origversion: 1:v0.5.0.r24.g82195c6-1
+  status: outdated
+  summary: Interactive cli tool for HTTP inspection.
+  licenses:
+    - AGPL3
+- repo: alpine_3_17
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r15
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alpine_3_18
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r20
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alpine_3_19
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r23
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alpine_3_20
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r26
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r31
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r36
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r41
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alpine_3_24
+  subrepo: community
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-r42
+  status: newest
+  summary: Interactive CLI tool for HTTP inspection
+  maintainers:
+    - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: alt_p11
+  srcname: wuzz
+  binnames:
+    - wuzz
+    - wuzz-debuginfo
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-alt1
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - paksa@altlinux.org
+  licenses:
+    - AGPL-3.0
+  categories:
+    - Other
+- repo: altsisyphus
+  srcname: wuzz
+  binnames:
+    - wuzz
+    - wuzz-debuginfo
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0-alt1
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - paksa@altlinux.org
+  licenses:
+    - AGPL-3.0
+  categories:
+    - Other
+- repo: blackarch
+  srcname: wuzz
+  binname: wuzz-debug
+  visiblename: wuzz-debug
+  version: v0.5.0.r18.g06eb2a2
+  origversion: 1:v0.5.0.r18.g06eb2a2-1
+  status: outdated
+  summary: Detached debugging symbols for wuzz
+  licenses:
+    - AGPL3
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+- repo: deepin_25
+  subrepo: community
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: freebsd
+  srcname: www/wuzz
+  binname: wuzz
+  visiblename: www/wuzz
+  version: 0.5.0
+  origversion: 0.5.0_45
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - www
+- repo: kali_rolling
+  subrepo: main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: macports
+  srcname: www/wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - AGPL-3
+  categories:
+    - www
+- repo: nix_stable_24_05
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - pradeep.chhetri89@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - pradeep.chhetri89@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_unstable
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - AGPL-3.0-only
+- repo: openpkg_current
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0.20210121
+  origversion: null
+  status: untrusted
+  summary: HTTP Interactive Inspection
+  licenses:
+    - AGPL
+  categories:
+    - Networking
+- repo: pardus_21
+  subrepo: main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - devel
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - devel
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - devel
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
+- repo: termux
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive command line tool for HTTP inspection
+  maintainers:
+    - termux@github
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2build1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2ubuntu0.24.04.2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2build1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2build1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2build2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2build2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: wuzz
+  binname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: 0.5.0_4
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - abenson+void@gmail.com
+  licenses:
+    - AGPL-3.0-or-later
