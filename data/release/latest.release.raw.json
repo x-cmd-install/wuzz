@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10527136,
       "digest": null,
-      "download_count": 311,
+      "download_count": 313,
       "created_at": "2021-01-19T13:00:16Z",
       "updated_at": "2021-01-19T13:01:06Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9291305,
       "digest": null,
-      "download_count": 37,
+      "download_count": 39,
       "created_at": "2021-01-19T13:00:06Z",
       "updated_at": "2021-01-19T13:00:57Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_freebsd_386"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10657718,
       "digest": null,
-      "download_count": 48,
+      "download_count": 50,
       "created_at": "2021-01-19T13:00:13Z",
       "updated_at": "2021-01-19T13:00:55Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_freebsd_amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9230879,
       "digest": null,
-      "download_count": 59,
+      "download_count": 61,
       "created_at": "2021-01-19T12:58:44Z",
       "updated_at": "2021-01-19T13:00:00Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_freebsd_arm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9357079,
       "digest": null,
-      "download_count": 113,
+      "download_count": 115,
       "created_at": "2021-01-19T12:59:42Z",
       "updated_at": "2021-01-19T13:01:02Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_linux_386"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10738719,
       "digest": null,
-      "download_count": 1808,
+      "download_count": 1811,
       "created_at": "2021-01-19T12:58:46Z",
       "updated_at": "2021-01-19T12:59:41Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_linux_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9226790,
       "digest": null,
-      "download_count": 186,
+      "download_count": 188,
       "created_at": "2021-01-19T12:58:45Z",
       "updated_at": "2021-01-19T13:00:01Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_linux_arm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9247828,
       "digest": null,
-      "download_count": 40,
+      "download_count": 42,
       "created_at": "2021-01-19T12:58:44Z",
       "updated_at": "2021-01-19T13:00:06Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_netbsd_386"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10605224,
       "digest": null,
-      "download_count": 69,
+      "download_count": 71,
       "created_at": "2021-01-19T12:58:44Z",
       "updated_at": "2021-01-19T13:00:29Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_netbsd_amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 9163351,
       "digest": null,
-      "download_count": 68,
+      "download_count": 70,
       "created_at": "2021-01-19T12:58:44Z",
       "updated_at": "2021-01-19T13:00:10Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_netbsd_arm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 9239501,
       "digest": null,
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2021-01-19T13:00:01Z",
       "updated_at": "2021-01-19T13:01:05Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_openbsd_386"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10609152,
       "digest": null,
-      "download_count": 64,
+      "download_count": 66,
       "created_at": "2021-01-19T12:58:44Z",
       "updated_at": "2021-01-19T13:00:16Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_openbsd_amd64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 9360896,
       "digest": null,
-      "download_count": 427,
+      "download_count": 428,
       "created_at": "2021-01-19T13:00:01Z",
       "updated_at": "2021-01-19T13:01:03Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_windows_386.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 10554880,
       "digest": null,
-      "download_count": 1260,
+      "download_count": 1261,
       "created_at": "2021-01-19T12:58:44Z",
       "updated_at": "2021-01-19T13:00:25Z",
       "browser_download_url": "https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_windows_amd64.exe"
