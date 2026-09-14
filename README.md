@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 4 | 0 | 6 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 4 | 0 | 6 |
-| 360d | 2025-09-18 | 0 | 1 | 0 | 4 | 1 | 8 |
-| last720d | 2024-09-23 | 0 | 4 | 0 | 5 | 1 | 20 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 4 | 0 | 6 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 4 | 0 | 6 |
+| 360d | 2025-09-19 | 0 | 1 | 0 | 4 | 1 | 8 |
+| last720d | 2024-09-24 | 0 | 4 | 0 | 5 | 1 | 20 |
 
 ## Release assets
 
@@ -83,21 +83,6 @@ Lowest-scoring checks:
 | [wuzz_windows_386.exe](https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_windows_386.exe) | 8.9 MiB | `native/win/x64` |
 | [wuzz_windows_amd64.exe](https://github.com/asciimoo/wuzz/releases/download/v0.5.0/wuzz_windows_amd64.exe) | 10.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **58** distros on [repology.org](https://repology.org/project/wuzz). **24** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.4.0` | ⚠️ outdated |
-| Debian 14 | `0.4.0` | ⚠️ outdated |
-| Debian 13 | `0.4.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.4.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.4.0` | ⚠️ outdated |
-| Nix unstable | `0.5.0` | ✅ latest |
-| Void | `0.5.0` | ✅ latest |
-| Alpine edge | `0.5.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for wuzz lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wuzz` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +92,4 @@ Install metadata for wuzz lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:37:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:04:53Z._
