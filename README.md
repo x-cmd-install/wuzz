@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,732 · **Forks**: 408 · **Open issues**: 80 · **Contributors**: 32
+- **Stars**: 10,732 · **Forks**: 407 · **Open issues**: 80 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 51 · **Open PRs**: 12 · **Closed issues**: 50 · **Open issues**: 30 · **Commits**: 251
+- **Releases**: 5 · **Merged PRs**: 51 · **Open PRs**: 12 · **Closed issues**: 51 · **Open issues**: 29 · **Commits**: 251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-17 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last180d | 2026-03-19 | 0 | 0 | 0 | 4 | 0 | 6 |
-| 360d | 2025-09-20 | 0 | 1 | 0 | 4 | 1 | 8 |
-| last720d | 2024-09-25 | 0 | 4 | 0 | 5 | 1 | 20 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-03-20 | 0 | 0 | 0 | 4 | 0 | 6 |
+| 360d | 2025-09-21 | 0 | 1 | 0 | 5 | 0 | 8 |
+| last720d | 2024-09-26 | 0 | 4 | 0 | 6 | 0 | 20 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for wuzz lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:53:17Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:52:50Z._
