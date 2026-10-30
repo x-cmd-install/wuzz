@@ -1,3 +1,17 @@
+- repo: deepin_25
+  subrepo: community
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
 - repo: devuan_4_0
   subrepo: chimaera/main
   srcname: wuzz
@@ -136,7 +150,7 @@
   binname: wuzz
   visiblename: wuzz
   version: 0.5.0
-  origversion: 0.5.0-r42
+  origversion: 0.5.0-r43
   status: newest
   summary: Interactive CLI tool for HTTP inspection
   maintainers:
@@ -313,20 +327,6 @@
   maintainers:
     - pkg-go-maintainers@lists.alioth.debian.org
     - jackdev@mailbox.org
-- repo: deepin_25
-  subrepo: community
-  srcname: wuzz
-  binnames:
-    - wuzz
-  visiblename: wuzz
-  version: 0.4.0
-  origversion: 0.4.0-2
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - jackdev@mailbox.org
-  categories:
-    - misc
 - repo: freebsd
   srcname: www/wuzz
   binname: wuzz
