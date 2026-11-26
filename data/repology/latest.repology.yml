@@ -1,17 +1,3 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: wuzz
-  binnames:
-    - wuzz
-  visiblename: wuzz
-  version: 0.4.0
-  origversion: 0.4.0-2
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - jackdev@mailbox.org
-  categories:
-    - misc
 - repo: alpine_3_17
   subrepo: community
   srcname: wuzz
@@ -36,6 +22,17 @@
   summary: Interactive CLI tool for HTTP inspection
   maintainers:
     - adam@acj.sh
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: wuzz
+  visiblename: wuzz
+  version: 0.5.0
+  origversion: null
+  status: newest
+  summary: Interactive cli tool for HTTP inspection
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
     - AGPL-3.0-only
 - repo: alpine_3_19
@@ -315,6 +312,20 @@
     - jackdev@mailbox.org
   categories:
     - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: wuzz
+  binnames:
+    - wuzz
+  visiblename: wuzz
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - jackdev@mailbox.org
+  categories:
+    - misc
 - repo: freebsd
   srcname: www/wuzz
   binname: wuzz
@@ -378,17 +389,6 @@
   licenses:
     - AGPL-3.0-only
 - repo: nix_stable_25_05
-  srcname: wuzz
-  visiblename: wuzz
-  version: 0.5.0
-  origversion: null
-  status: newest
-  summary: Interactive cli tool for HTTP inspection
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - AGPL-3.0-only
-- repo: nix_stable_25_11
   srcname: wuzz
   visiblename: wuzz
   version: 0.5.0
@@ -463,20 +463,6 @@
     - jackdev@mailbox.org
   categories:
     - misc
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: wuzz
-  binnames:
-    - wuzz
-  visiblename: wuzz
-  version: 0.3.0
-  origversion: 0.3.0-1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - jackdev@mailbox.org
-  categories:
-    - devel
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: wuzz
